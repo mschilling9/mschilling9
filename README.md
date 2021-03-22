@@ -2,7 +2,7 @@
 - I’m interested in embedded systems development
 - I’m currently learning C++
 - I’m looking to collaborate on any C/C++ projects.
-- Consider emailing [me](mtthwschllng@gmail.com) 
+- Consider emailing me at mtthwschllng@gmail.com with any collaboration requests!
 
 <!---
 mschilling9/mschilling9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
