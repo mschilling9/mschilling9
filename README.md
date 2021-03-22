@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Matthew Schilling
-- 👀 I’m interested in embedded systems development
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on any C/C++ projects.
-- 📫 How to reach me 
+- Hi, I’m Matthew Schilling
+- I’m interested in embedded systems development
+- I’m currently learning C++
+- I’m looking to collaborate on any C/C++ projects.
+- Consider emailing [me](mtthwschllng@gmail.com) 
 
 <!---
 mschilling9/mschilling9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
